@@ -10,7 +10,4 @@ public class Test {
         return a + b;
     }
 
-    public void test2(){
-        System.out.println("test");
-    }
 }
